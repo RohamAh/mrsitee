@@ -7,7 +7,7 @@ $ git clone https://github.com/RohamAh/RDDOS
 $ cd RDDOS
 $ chmod +x *
 $ pip3 install installer.txt
-$ python3 RDDOS.py
+$ python3 mrsitee.py
 
 Linktelegram: https://t.me/+GCZQwteFy5Q3Yzc0
 If you are satisfied with my program, click on the star:
