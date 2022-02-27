@@ -9,7 +9,7 @@ print(Fore.BLUE+"   |----|\ )         ")
 print(Fore.BLUE+"   |  |----)          ")
 print(Fore.BLUE+"   |__|         ")
 print(Fore.GREEN+"===================================")
-print(Fore.GREEN+"ver:1.0      telegram: t.me/ROBOTH")
+print(Fore.GREEN+"ver:1.0      telegram: t.me/MRROBOTH")
 print(Fore.GREEN+"===================================")
 import time
 import socket
