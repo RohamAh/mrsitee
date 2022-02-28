@@ -4,6 +4,8 @@ import time
 import socket
 import sys
 import _thread
+import os
+os.system("clear")
 version="1.0"
 telegram="t.me/MRROBOTH"
 colorama.init()
@@ -24,6 +26,7 @@ print(Fore.BLUE+" __")
 print("|")
 a=int(input("|Enter your number >"))
 if a == 1:
+    os.system("clear")
     print(Fore.BLUE+"   ____ ____________             ")
     print(Fore.BLUE+"   |    (___________| @     ")
     print(Fore.BLUE+"   |----|\ )         ")
